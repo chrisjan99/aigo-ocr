@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1UtPOIEUS5B5-CgGKDG68JkfFgZHfsC09/view?usp=shari
 
 4. Put CRNN model into crnn.pytorch/models folder
 
-5. Inference methods refer to notebook/CPTN.ipynb
+5. Inference methods refer to notebook/ocr.ipynb
